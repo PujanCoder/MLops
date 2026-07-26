@@ -12,7 +12,7 @@ ARTIFACT_DIR: str = "artifact"
 MODEL_FILE_NAME = "model.pkl"
 
 TARGET_COLUMN = "Response"
-CURRENT_YEAR = date.today().year
+CURRENT_YEAR = date.today().year  # noqa: DTZ011
 PREPROCSSING_OBJECT_FILE_NAME = "preprocessing.pkl"
 
 FILE_NAME: str = "data.csv"
