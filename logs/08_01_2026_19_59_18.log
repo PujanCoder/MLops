@@ -1,0 +1,12 @@
+[ 2026-08-01 19:59:18,711 ] numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+[ 2026-08-01 19:59:21,829 ] asyncio - DEBUG - Using proactor: IocpProactor
+[ 2026-08-01 20:02:50,187 ] root - INFO - Entered get_usvisa_data_as_dict method as VehicleData class
+[ 2026-08-01 20:02:50,188 ] root - INFO - Created vehicle data dict
+[ 2026-08-01 20:02:50,188 ] root - INFO - Exited get_vehicle_data_as_dict method as VehicleData class
+[ 2026-08-01 20:02:50,199 ] root - INFO - Entered predict method of VehicleDataClassifier class
+[ 2026-08-01 20:02:50,200 ] root - ERROR - Error occurred in python script: [C:\Users\acer\OneDrive\Projects\MLops\src\pipline\prediction_pipeline.py] at line number [101]: Environment variable: AWS_ACCESS_KEY_ID is not not set.
+[ 2026-08-01 20:03:27,021 ] root - INFO - Entered get_usvisa_data_as_dict method as VehicleData class
+[ 2026-08-01 20:03:27,022 ] root - INFO - Created vehicle data dict
+[ 2026-08-01 20:03:27,022 ] root - INFO - Exited get_vehicle_data_as_dict method as VehicleData class
+[ 2026-08-01 20:03:27,024 ] root - INFO - Entered predict method of VehicleDataClassifier class
+[ 2026-08-01 20:03:27,025 ] root - ERROR - Error occurred in python script: [C:\Users\acer\OneDrive\Projects\MLops\src\pipline\prediction_pipeline.py] at line number [101]: Environment variable: AWS_ACCESS_KEY_ID is not not set.
