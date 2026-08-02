@@ -114,7 +114,7 @@
       ## Optinal
       sudo apt-get update -y
       sudo apt-get upgrade
-      ## Required (Because Docker is'nt there in our EC2 server - [docker --version])
+      ## Requied (Because Docker is'nt there in our EC2 server - [docker --version])
       curl -fsSL https://get.docker.com -o get-docker.sh
       sudo sh get-docker.sh
       sudo usermod -aG docker ubuntu
